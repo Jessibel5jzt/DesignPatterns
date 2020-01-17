@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{21376A50-5101-4766-99FB-073A2DC9182C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FactoryMethodMode</RootNamespace>
-    <AssemblyName>FactoryMethodMode</AssemblyName>
+    <RootNamespace>FactoryMethodPattern</RootNamespace>
+    <AssemblyName>FactoryMethodPattern</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
